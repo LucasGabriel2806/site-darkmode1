@@ -1,5 +1,4 @@
 let icon = document.getElementById("icon");
-let dark_mode = false;
 
 icon.onclick = function() {
     document.body.classList.toggle("dark-theme");
